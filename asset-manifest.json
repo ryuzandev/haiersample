@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haiersample/haier/static/css/main.62bda350.css",
-    "main.js": "/haiersample/haier/static/js/main.ec6816c3.js",
+    "main.js": "/haiersample/haier/static/js/main.d3268010.js",
     "static/media/dtwo.jpg": "/haiersample/haier/static/media/dtwo.638c9ac3932f277aa4f2.jpg",
     "static/media/twoC.jpg": "/haiersample/haier/static/media/twoC.f1ed8233493a2f8d53e8.jpg",
     "static/media/dfour.jpg": "/haiersample/haier/static/media/dfour.6d722c29d4368092ca0f.jpg",
@@ -46,10 +46,10 @@
     "static/media/haierLogo.png": "/haiersample/haier/static/media/haierLogo.3413c0bbe668284d7f42.png",
     "index.html": "/haiersample/haier/index.html",
     "main.62bda350.css.map": "/haiersample/haier/static/css/main.62bda350.css.map",
-    "main.ec6816c3.js.map": "/haiersample/haier/static/js/main.ec6816c3.js.map"
+    "main.d3268010.js.map": "/haiersample/haier/static/js/main.d3268010.js.map"
   },
   "entrypoints": [
     "static/css/main.62bda350.css",
-    "static/js/main.ec6816c3.js"
+    "static/js/main.d3268010.js"
   ]
 }
